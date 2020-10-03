@@ -2,6 +2,6 @@
 
 int main() {
   cout << "hello world!\n";
-  cout << "my name is linin\n";
+  cout << "and y name is linin\n";
   return 0;
 }
